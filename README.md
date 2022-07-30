@@ -1,4 +1,4 @@
-# RustServerDeployAutomation
+# Rust Server Deploy Automation with Oxide
 
 Download last Rust Dedicated Server from https://wiki.facepunch.com/rust/Creating-a-server
 
