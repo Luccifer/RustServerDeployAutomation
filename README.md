@@ -1,4 +1,4 @@
-# Rust Server Deploy Automation with Oxide
+# Rust Server Deploy Automation with Oxide on Windows
 
 Download last Rust Dedicated Server from https://wiki.facepunch.com/rust/Creating-a-server
 
